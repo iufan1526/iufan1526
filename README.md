@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=slice&text=Kim s GitHub)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
