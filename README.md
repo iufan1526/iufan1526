@@ -2,7 +2,7 @@
 <div align="center">
 👨‍💻신입 백엔드 개발자 김승태입니다<br>
 Email : iufan1526@gmail.com<br>
-Blog : <a herf='https://seungtudy4.tistory.com'>https://seungtudy4.tistory.com</a>
+Blog : <a href='https://seungtudy4.tistory.com'>https://seungtudy4.tistory.com</a>
 </div>
 <br><br>
 <div align="center">
