@@ -9,7 +9,7 @@ Blog : <a href='https://seungtudy4.tistory.com'>https://seungtudy4.tistory.com</
 ⚒️Language
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeSCript&logoColor=white" />
 </div>
@@ -19,6 +19,7 @@ Blog : <a href='https://seungtudy4.tistory.com'>https://seungtudy4.tistory.com</
 🔬Framework
 </div>
 <div align="center">
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
 	<img src="https://img.shields.io/badge/NestJs-E0234E?style=flat&logo=NestJs&logoColor=white" /> 
 </div>
